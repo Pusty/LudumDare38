@@ -1,0 +1,12 @@
+{
+    "name": "LudumDare 38",
+    "icon": "resources/icon.png",
+    "debug": false,
+	"save": false,
+	"world": "room",
+	"text": [
+		""
+	],
+	"variables": {
+	}
+}
